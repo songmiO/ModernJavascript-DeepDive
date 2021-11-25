@@ -90,7 +90,7 @@ var 이름, なまえ;
 
 // # 04-14
 
-var first-name; // SyntaxError: Unexpected token –
+var first-name;  // SyntaxError: Unexpected token –
 var 1st;        // SyntaxError: Invalid or unexpected token
 var this;       // SyntaxError: Unexpected token this
 
