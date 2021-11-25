@@ -2,7 +2,6 @@
 
 10 + 20;
 
-
 // # 04-02
 
 // 변수는 하나의 값을 저장하기 위한 수단이다.
@@ -17,17 +16,15 @@ var users = [
   { id: 2, name: 'Kim' },
 ];
 
-
-# 04-03
+// # 04-03
 
 ```javascript
 var result = 10 + 20;
-```
+```;
 
 // # 04-04
 
 var score; // 변수 선언(변수 선언문)
-
 
 // # 04-05
 
@@ -35,18 +32,14 @@ console.log(score); // undefined
 
 var score; // 변수 선언문
 
-
 // # 04-06
 
 var score; // 변수 선언
 score = 80; // 값의 할당
 
-
 // # 04-07
 
-
 var score = 80; // 변수 선언과 값의 할당
-
 
 // # 04-08
 
@@ -90,16 +83,15 @@ var 이름, なまえ;
 
 // # 04-14
 
-var first-name;  // SyntaxError: Unexpected token –
-var 1st;        // SyntaxError: Invalid or unexpected token
-var this;       // SyntaxError: Unexpected token this
+// var first-name;  // SyntaxError: Unexpected token –
+// var 1st;        // SyntaxError: Invalid or unexpected token
+// var this;       // SyntaxError: Unexpected token this
 
 // # 04-15
 
 var firstname;
 var firstName;
 var FIRSTNAME;
-
 
 // # 04-16
 
@@ -112,7 +104,6 @@ var score = 100; // OK. score 변수는 점수를 의미한다.
 var d; // NG
 
 var elapsedTimeInDays; // OK
-
 
 // # 04-18
 
