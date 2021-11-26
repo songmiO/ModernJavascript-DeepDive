@@ -18,9 +18,7 @@ var users = [
 
 // # 04-03
 
-```javascript
 var result = 10 + 20;
-```;
 
 // # 04-04
 
