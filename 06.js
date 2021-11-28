@@ -200,3 +200,5 @@ console.log(typeof foo); // object
 
 foo = function () {}; // 함수
 console.log(typeof foo); // function
+
+console.log('출력')
