@@ -192,6 +192,7 @@ false == 'false'; // -> false
 false == '0'; // -> true
 false == null; // -> false
 false == undefined; // -> false
+console.log('check')
 
 // # 07-14
 
